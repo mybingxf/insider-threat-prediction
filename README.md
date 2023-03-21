@@ -1,0 +1,2 @@
+# insider-threat-prediction
+Unzip this compressed package, there is a folder(tool_and_model) and three python code files (CNN.py, LSTM.py, machine_learning.py) and a CSV table(1-data-test-rebiuld1.csv). When you run the code, this package will be called and the CSV file will be read. So when the python code can be run directly, please place the folder and the form in the same path. When you run a code, a CSV file will be generated to store the four scores(acc,pre,rec and F1) of the model corresponding to 1-9 days.
